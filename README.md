@@ -4,10 +4,9 @@ Routine and repetitive surveys require a sophisticated and structured approach t
 Survey Management System (SMS) is a web-enabled application which empowers the development, distributing and analysis of survey forms to improve communication, process management, and decision support across the organization. SMS is suitable for institutes that require surveying and interviewing techniques to measure evaluation amongst different participant's levels and categories.
 Keywords: Survey System, Php, Mysql, Bootstrap
 
-#INTRODUCTION
+
 Web based survey system aims at aiding researchers in gathering data from a large number of respondents in a cost-effective way, eliminating errors and data redundancy. The administrator post a questionnaires on the web application and gives the links out to his/her respondents to fill the questionnaires at the comfort of their homes and offices. The system is designed with PHP, bootstrap, CSS and MYSQL technologies.
 
-#CONCLUSIONS
 
 As a result, the purpose of the surveys is to get precise information from the society or a certain segment on the determined problem.
 Web based survey system aims at aiding researchers in gathering data from a large number of respondents in a cost-effective way, eliminating errors and data redundancy.
